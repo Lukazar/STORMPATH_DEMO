@@ -1,0 +1,6 @@
+{
+  "public_key":"<public_key_here>",
+  "private_key":"<private_key_here>",
+  "api_url":"https://api.stormpath.com/v1/applications/<application_id_here>/",
+  "login_api":"loginAttempts"  
+}
